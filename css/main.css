@@ -248,11 +248,13 @@ h5 {
   flex: 0 0 41.6667%;
   text-align: right !important;
   padding: 0 1.5rem;
+  border-radius: 50%;
 }
 
 .hero-img img {
   max-width: 100%;
   height: auto;
+  border-radius: 50%;
   vertical-align: bottom;
 }
 
